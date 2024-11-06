@@ -1,9 +1,0 @@
-<RCC>
-    <qresource prefix="/image">
-        <file>qt_picture/ArcticonsOscilloscope.png</file>
-        <file>qt_picture/ArcticonsPidLitacka.png</file>
-        <file>qt_picture/HugeiconsPowerService.png</file>
-        <file>qt_picture/TablerClockCancel.png</file>
-        <file>qt_picture/TablerClockCheck.png</file>
-    </qresource>
-</RCC>
